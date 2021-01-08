@@ -2,7 +2,7 @@
 >_"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm."_  
                                                                                                       Aldous Hexley  
 																									  
-![Photo de profil](/images/profil.jpg) 
+![Photo de profil](/images/profil.png) 
 
   
   
