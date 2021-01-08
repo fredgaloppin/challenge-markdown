@@ -1,11 +1,11 @@
-# Frédéric Galoppin.
->_"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm."_.
->Aldous Hexley
-![Photo de profil](/image/profil.jpg)
+# Frédéric Galoppin
+>_"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm."_
+ Aldous Hexley
+![Photo de profil](/images/profil.jpg)
 
-## My thoughts are popping up on each others toward all azimut, then i could get so confused while i express myself.
+### My thoughts are popping up on each others toward all azimut, then i could get so confused while i express myself
 
-| 	some features                                  |
+###some features                                  
 | ------------------  | -------------------------- |
 | Birthday            | 04 / 11                    |
 | Gender              | M                          |
