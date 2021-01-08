@@ -37,4 +37,4 @@ Altough I lived in Germany from about one year old to 12, i only began to learn 
 ### TL; DR
 La tête en vrac.
 
-<< [Stéphane Englebert](https://stephane-englebert.github.io/challenge-markdown/blob/main/README.md) || Frédéric Galoppin || [Daniel Goandete](https://github.com/DanielGoandete/desktop-challenge-markdown/blob/main/README.md) >>
+<< [Stéphane Englebert](https://stephane-englebert.github.io/challenge-markdown/) || Frédéric Galoppin || [Daniel Goandete](https://github.com/DanielGoandete/desktop-challenge-markdown/blob/main/README.md) >>
